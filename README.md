@@ -1,4 +1,6 @@
 # NB-CCCP
+
+[![Join the chat at https://gitter.im/ivanov/nb-cccp](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ivanov/nb-cccp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 IPython Notebook Collective Cut-Copy-Paste
 
 Author: [Paul Ivanov](http://github.com/ivanov)
